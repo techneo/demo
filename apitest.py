@@ -93,3 +93,6 @@ def test_rel_once():
 
 #test_db_create()
 #test_rel_once()
+
+def new_fn():
+    print "new fn"
